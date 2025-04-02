@@ -1,6 +1,7 @@
 import wikipedia
 from yake import KeywordExtractor
 
+
 # build a function to return the summary of a wikipedia page
 def get_wiki_summary(page):
     """

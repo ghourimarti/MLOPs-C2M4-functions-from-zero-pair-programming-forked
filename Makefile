@@ -24,3 +24,7 @@ deploy:
 		
 		
 all: install lint test format deploy
+
+
+# python -m venv .venv
+# source .venv/bin/activate
