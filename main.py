@@ -67,7 +67,7 @@ async def distance(city1: City, city2: City):
 async def keywords(city: City):
     """Get the top 10 keywords from the content of a page with POST HTTP Method
 
-    Returns back the top 10 keywords from the content of a page
+    Returns back the top 10 keywords from the content of a pagesss
     """
 
     return {"keywords": get_wiki_keywords(city.name)}
