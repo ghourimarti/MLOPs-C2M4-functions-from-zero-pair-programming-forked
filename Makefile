@@ -1,4 +1,4 @@
-account_id = 271271282883
+account_id = 12
 region = us-east-1
 tag = v1
 name = logistics-forked
